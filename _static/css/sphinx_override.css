@@ -7252,8 +7252,7 @@ footer span.commit .rst-content tt,
   display: none;
 }
 
-.smartthingsNav ul,
-.smartthingsNav:active ul {
+.smartthingsNav ul {
   display: none;
   opacity: 0;
   max-height: 300px;
@@ -7412,7 +7411,6 @@ footer span.commit .rst-content tt,
   width: 300px;
   color: #fcfcfc;
   background: #1f1d1d;
-  border-top: solid 10px #343131;
   font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
   z-index: 400;
 }
